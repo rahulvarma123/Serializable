@@ -1,0 +1,4 @@
+<resources>
+    <string name="move">move to Second Activity</string>
+    <string name="click">move to third Activity</string>
+</resources>
